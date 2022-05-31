@@ -1328,7 +1328,7 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #777777;
-		font-size: 20pt;
+		font-size: 16pt;
 		line-height: 1.75em;
 	}
 
@@ -2088,6 +2088,7 @@ input, select, textarea {
 					padding: 3.5em 2.5em;
 					margin-bottom: 0;
 					width: 100%;
+					font-size: small;
 				}
 
 					#main > .panel.intro header h1 {
