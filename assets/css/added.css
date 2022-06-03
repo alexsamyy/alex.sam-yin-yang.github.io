@@ -1,8 +1,21 @@
 #about-me{
-    padding: 10%;
+    padding: 5%;
     text-align: justify;
 }
 
+#message_contact{
+    resize: none;
+}
+
+#cv_btn{
+    border-radius: 10px;
+    border:0;
+    background-color: #FF4C60;
+}
+
 #cv{
-    text-align: center;
+    color: white;
+    font-size: small;
+    padding: 1%;
+    width: 140px;
 }
